@@ -1,0 +1,30 @@
+#mur
+{
+	width: 900px;
+	margin:0 auto;
+	background-color:white;
+	text-align:center;
+	align-content: center;
+}
+
+h1
+{
+	color: black;
+	font-family: cursive;
+	text-transform:capitalize;
+	text-shadow: 4px 4px 5px grey;
+	letter-spacing: 2px;
+    word-spacing: 4px;
+    line-height: 1.5;
+    font-size:300%;
+}
+
+p
+{
+	color: black;
+	font-family: cursive;
+	text-transform: capitalize;
+	word-spacing: 6px;
+	letter-spacing: 1.5px;
+	font-size: 150%;
+}
